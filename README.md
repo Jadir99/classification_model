@@ -10,7 +10,7 @@ project-root/
 ├── saved_model/              # Modèle CamemBERT entraîné
 ├── data/
 │   └── froid_new.csv         # Données CSV avec les textes à prédire
-├── Camembert_model.ipynb              # Script d’inférence
+├── Camembert_model.ipynb   
 ├── requirements.txt          # Dépendances du projet
 └── README.md                 # Ce fichier
 ```
@@ -26,8 +26,8 @@ project-root/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-repo.git
-cd tonrepo-
+git clone https://github.com/Jadir99/classification_model.git
+cd classification_model
 ```
 
 ### 2. Créer un environnement virtuel (optionnel)
