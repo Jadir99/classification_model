@@ -26,8 +26,8 @@ project-root/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-repo.git
-cd tonrepo-
+git clone https://github.com/Jadir99/classification_model.git
+cd classification_model
 ```
 
 ### 2. Créer un environnement virtuel (optionnel)
